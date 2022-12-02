@@ -1,3 +1,7 @@
+'''
+Script to evaluate the LOVE model.
+'''
+
 import torch
 import numpy as np
 from scipy import stats

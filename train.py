@@ -1,3 +1,6 @@
+'''
+Script to train the LOVE model.
+'''
 import torch
 import torch.optim as optim
 import sys
