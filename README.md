@@ -76,7 +76,6 @@ Provisioned a compute unit and GPU from a cloud service provider datacrunch.io. 
 #### Extrinsic evaluation
 * Reproduced the two kinds of evaluation.
 
-###### CNN Text Classification
 
 ###### RNN NER 
 * Generate embeddings for all words in CoNLL03, by the following python script
